@@ -1,0 +1,19 @@
+# Never commit operational data, credentials, reports or downloaded media.
+.env
+.env.*
+!.env.example
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/private/
+outputs/
+photos/
+temp_images/
+*.log
+.DS_Store
+Thumbs.db
