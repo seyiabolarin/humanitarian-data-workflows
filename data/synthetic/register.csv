@@ -1,0 +1,4 @@
+record_id,name,community,lga,household_size,card_number,amount
+DEMO-001,Sample Person A,Example Community A,Example District A,4,DEMO-CARD-001,100
+DEMO-002,Sample Person B,Example Community B,Example District A,3,DEMO-CARD-002,100
+DEMO-003,Sample Person C,Example Community A,Example District B,5,DEMO-CARD-003,100
